@@ -56,3 +56,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# VisualCode
+.vscode
+
+# Datasets
+dataset
+examples
